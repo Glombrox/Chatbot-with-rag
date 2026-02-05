@@ -15,4 +15,4 @@ A lightweight chatbot supporting:
 
 ## Run locally
 ```bash
-python app/main.py
+python app/streamlit_ui.py

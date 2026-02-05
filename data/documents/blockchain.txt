@@ -1,0 +1,11 @@
+Blockchain is a distributed ledger technology that allows data to be stored across
+a network of computers in a secure and immutable way.
+
+Decentralized Finance (DeFi) refers to financial applications built on top of blockchain
+networks that operate without centralized intermediaries like banks.
+
+Uniswap is a decentralized exchange that uses automated market makers (AMMs)
+instead of traditional order books.
+
+Proof of Stake is a consensus mechanism where validators are chosen based on
+the amount of cryptocurrency they hold and stake.

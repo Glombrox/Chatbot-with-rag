@@ -1,0 +1,9 @@
+.chatbot
+.env
+app/__pycache__
+*.pyc
+*.pyo
+*.pyd
+data/chat_memory.db
+data/faiss_index/
+data/documents/.gitkeep

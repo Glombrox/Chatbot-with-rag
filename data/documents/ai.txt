@@ -1,0 +1,9 @@
+Large Language Models (LLMs) are neural networks trained on massive text datasets.
+They are capable of understanding natural language, generating text, summarizing documents,
+answering questions, and assisting with programming tasks.
+
+Popular LLM architectures include Transformer-based models such as GPT, LLaMA, and Mistral.
+These models rely on self-attention mechanisms to process input tokens in parallel.
+
+Retrieval-Augmented Generation (RAG) is a technique where external documents are retrieved
+and injected into the prompt to improve factual accuracy and reduce hallucinations.

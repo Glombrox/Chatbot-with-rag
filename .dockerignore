@@ -1,0 +1,16 @@
+app/__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+.env
+.env.* 
+
+data/chat_memory.db
+data/faiss_index/
+
+.git
+.gitignore
+
+Thumbs.db
+

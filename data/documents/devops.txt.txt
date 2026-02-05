@@ -1,0 +1,10 @@
+Docker is a containerization platform that allows applications to run in isolated
+environments called containers.
+
+Docker Compose is used to define and run multi-container applications using a
+YAML configuration file.
+
+Kubernetes is an orchestration system that automates deployment, scaling,
+and management of containerized applications.
+
+Persistent volumes are used in Kubernetes to ensure data survives pod restarts.

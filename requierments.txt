@@ -1,0 +1,11 @@
+groq
+ollama
+requests
+faiss-cpu
+python-dotenv
+docker
+streamlit
+langchain-community
+langchain-ollama
+langchain-text-splitters
+langchain-core

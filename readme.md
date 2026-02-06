@@ -115,6 +115,6 @@ The app will open in your browser at `http://localhost:8501`.
 docker-compose up --build
 ```
 2. **Open your browser at https://localhost:8501**
-> Note:Make sure `.env` and `data/documents/` are accessible to Docker.
+> Note: Make sure `.env` and `data/documents/` are accessible to Docker.
 
 > FAISS indexes will be built automatically if missing.

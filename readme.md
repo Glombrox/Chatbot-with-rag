@@ -1,6 +1,6 @@
 # Chatbot with Local/Cloud LLM and RAG
 
-This is a chatbot built with **Python**, **Streamlit**, **SQLite**, and **RAG (Retrieval-Augmented Generation)**.  
+This is a chatbot built with **Python**, **Streamlit**, **SQLite**.  
 It supports both **local and cloud LLMs**, stores chat history in a **SQLite database**, and can optionally use **document context** to provide smarter answers.
 
 ---
@@ -103,6 +103,8 @@ The app will open in your browser at `http://localhost:8501`.
 - **FAISS Persistence**: Vector store is saved in `data/faiss_index/`.
 
 - **Chat History**: Stored in SQLite for all users `data/chat_memory.db`.
+
+- **The Models**: Currently we are using **Llama3.1:latest** as the local model, and calling **llama-3.1-8b-instant** from the cloud.
 
 ---
 

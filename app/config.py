@@ -14,7 +14,7 @@ LOCAL_MODEL = os.getenv("LOCAL_MODEL", "llama3.1:latest")
 GROQ_API_KEY = os.getenv("GROQ_API_KEY")
 CLOUD_MODEL = os.getenv("CLOUD_MODEL", "llama-3.1-8b-instant")
 
-EMBEDDING_MODEL = "nomic-embed-text "
+EMBEDDING_MODEL = "nomic-embed-text"
 
 ENABLE_RAG = os.getenv("ENABLE_RAG", "true").lower() == "true"
 FAISS_PATH = "data/faiss_index"
